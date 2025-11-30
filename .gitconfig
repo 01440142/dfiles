@@ -1,0 +1,17 @@
+[alias]
+    ci = commit
+    cl = clone
+    di = diff
+    fe = fetch
+    fetch = pull
+    mg = merge
+    se = send
+    send = push
+    st = status
+[init]
+    defaultBranch = main
+[push]
+    autoSetupRemote = true
+[user]
+    name = 01440142
+    email = 206883673+01440142@users.noreply.github.com
